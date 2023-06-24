@@ -252,7 +252,7 @@ import {
   
   const NAV_ITEMS: Array<NavItem> = [
     {
-      label: 'Inspiration',
+      label: 'Project',
       children: [
         {
           label: 'Explore Design Work',
@@ -267,7 +267,7 @@ import {
       ],
     },
     {
-      label: 'Find Work',
+      label: 'Dashboard',
       children: [
         {
           label: 'Job Board',
@@ -282,11 +282,8 @@ import {
       ],
     },
     {
-      label: 'Learn Design',
+      label: 'About',
       href: '#',
     },
-    {
-      label: 'Hire Designers',
-      href: '#',
-    },
+    
   ];

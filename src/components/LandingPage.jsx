@@ -18,7 +18,7 @@ function LandingPage() {
         voluptatem, possimus iste blanditiis explicabo error.
 
         <div className="started">
-            <button className="getStarted">get started</button>
+            <button className="getStarted">Get Started</button>
         </div>
       </div>
       <div className="landingImage">
